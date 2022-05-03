@@ -2,7 +2,8 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QPushButton, QVB
 from PyQt5 import uic
 import sys
 
-
+from os import path
+BASE_PATH = path.abspath(path.join(path.dirname(__file__), 'tictow_game.ui'))
 
 class UI(QMainWindow):
     def __init__(self):
@@ -12,7 +13,7 @@ class UI(QMainWindow):
         self.setStyleSheet("background-color: #f0f0f0")
         
         # Loading UI File:
-        uic.loadUi("tictow_game.ui", self)
+        uic.loadUi(BASE_PATH, self)
         
         # Counter for button clicks and win check
         self.counter = 0
