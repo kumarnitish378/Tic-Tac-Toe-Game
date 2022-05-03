@@ -17,7 +17,7 @@
 []: # License: MIT free to use and Modified
 
 []: # Message: i want to add machine learning algoritm.
- 
+
 []: # Tags: TicTocToe, MachineLearning, AI, Game
 
 This is Simple Tic Tac Toe Game.
@@ -27,15 +27,16 @@ This is Simple Tic Tac Toe Game.
 
 
 features:
-    - play game
-    - play with computer (Comming Soon)
-    - play with friend 
-    - score board
+    -> play game
+    -> play with computer (Comming Soon)
+    -> play with friend 
+    -> score board
 
 video link: https://www.youtube.com/
 
 
 <!-- installatoin Guid -->
+installatoin Guid
 
 >> pip install -r requirements.txt
 
