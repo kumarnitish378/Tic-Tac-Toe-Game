@@ -25,12 +25,11 @@ This is Simple Tic Tac Toe Game.
     []: # Language: markdown
     []: # Path: README.md
 
-
 features:
-    -> play game
-    -> play with computer (Comming Soon)
-    -> play with friend 
-    -> score board
+1. play game
+2. play with computer (Comming Soon)
+3. play with friend 
+4. score board
 
 video link: https://www.youtube.com/
 
