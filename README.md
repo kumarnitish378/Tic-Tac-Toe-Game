@@ -1,35 +1,30 @@
-    []: # Auther: Nitish Kumar Sharma
-    []: # Title: Tic Tac Toe Game
-    []: # Language: python
-    []: # Path: README.md
-    []: # Date: 2022-05-03
-    []: # Version: 1.0.0
-    []: # Summary: Simple Run And Play
-    []: # Description: Basic Tic Toc Toe Game
-    []: # License: MIT free to use and Modified
-    []: # Message: i want to add machine learning algoritm.
-    []: # Tags: TicTocToe, MachineLearning, AI, Game
+- Author: Nitish Kumar Sharma
+- Title: Tic Tac Toe Game
+- Language: Python
+- Path: README.md
+- Date: 2022-05-03
+- Version: 1.0.0
+- Summary: Simple Run and Play
+- Description: Basic Tic Tac Toe Game
+- License: MIT, free to use and modify
+- Message: I want to add a machine learning algorithm.
+- Tags: TicTacToe, MachineLearning, AI, Game
 
-This is Simple Tic Tac Toe Game.
-    
-    []: # Language: markdown
-    []: # Path: README.md
+This is a simple Tic Tac Toe game.
 
-features:
-1. play game
-2. play with computer (Comming Soon)
-3. play with friend 
-4. score board
+- Language: Markdown
+- Path: README.md
 
-video link: https://www.youtube.com/
+## Features:
+1. Play game
+2. Play with computer (Coming Soon)
+3. Play with friend
+4. Scoreboard
 
+[Video link](https://www.youtube.com/)
 
-<!-- installatoin Guid -->
-installatoin Guid
-
->> pip install -r requirements.txt
-
->> python main.py
-
-<!-- Note Please make Sure PATH of the Ui file should be same -->
-Note Please make Sure PATH of the Ui file should be same
+## Installation Guide
+```bash
+pip install -r requirements.txt
+python main.py
+```
